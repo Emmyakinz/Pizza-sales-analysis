@@ -1,7 +1,7 @@
 # Pizza-sales-analysis
 
 
-An exploratory data analysis (EDA) of a full year's worth of sales data from a pizza place. This project uncovers business insights around revenue, customer ordering patterns, bestselling pizzas, and more.
+Analysis of a full year's worth of sales data from a pizza shop. This project uncovers business insights around revenue, customer ordering patterns, bestselling pizzas, etc.
 
 
 
@@ -29,22 +29,14 @@ The dataset contains a year's worth of sales (2015) from a single pizza restaura
 
 ## Key Findings
 
-Total Revenue:  $817,860 
- Total Pizzas: Sold  49,574 
- Total Orders:  21,350 
- Avg Pizza Price:  $16.44 
- Busiest Day:  Friday 
- Peak Hours:12–1 PM & 5–7 PM 
- Best Month: July
- Top Seller:  The Classic Deluxe Pizza 
- Worst Performer:  The Brie Carre Pizza 
+ * Total Revenue:  $817,860 
+ * Total Pizzas: Sold  49,574 
+ * Total Orders:  21,350 
+ * Avg Pizza Price:  $16.44 
+ * Busiest Day:  Friday 
+ * Peak Hours:12–1 PM & 5–7 PM 
+ * Best Month: July
+ * Top Seller:  The Classic Deluxe Pizza 
+ * Worst Performer:  The Brie Carre Pizza 
 
 
-
-
----
-
-## 👤 Author
-
-Your Name  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
