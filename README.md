@@ -7,7 +7,7 @@ Analysis of a full year's worth of sales data from a pizza shop. This project un
 
 ## 📊 Dataset 
 
-The dataset contains a year's worth of sales (2015) from a single pizza restaurant, in four CSV files:
+The dataset contains a year's worth of sales (2015) from a single pizza restaurant, in four CSV files.
 
 
 
